@@ -1,0 +1,5 @@
+.env*
+!.env.example
+.idea
+*.DS_Store
+balpy.egg-info
